@@ -78,39 +78,14 @@ Mientras tú lees la documentación, yo ya estoy deployado y recogiendo anillos.
 
 ---
 
-## `> cat chaos_emeralds.txt`
-
-```diff
-+ 🔵 AZUL     → Bootcamp Full Stack Developer
-              Grupo Peñascal F5 | 2024–2025 | 1000h
-              DOMINADO
-
-+ 🟢 VERDE    → FP Grado Medio — Sistemas Microinformáticos y Redes
-              CIFP Elorrieta Erreka Mari LHII | 2021–2023
-              DOMINADO
-
-+ 🟡 AMARILLO → Operaciones Auxiliares de Montaje y Mantenimiento
-              Ipartek Servicios Informáticos | 2024 | 290h
-              DOMINADO
-
-+ 🔴 ROJO     → Protocolo Trilingüe — AR · BER · EN · ES · FR
-              TODAS LAS ZONAS LIMPIAS
-```
-
----
-
-## `> locale --active`
+## `> zone --current`
 
 ```
-┌─────────────────┬───────────┬────────────────────────────┐
-│ LANG            │ LEVEL     │ STATUS                     │
-├─────────────────┼───────────┼────────────────────────────┤
-│ ar_MA.UTF-8     │ NATIVE    │ ████████████████████████ ✓ │
-│ ber_DZ.UTF-8    │ NATIVE    │ ████████████████████████ ✓ │
-│ en_US.UTF-8     │ ADVANCED  │ ████████████████████░░░░ ✓ │
-│ es_ES.UTF-8     │ ADVANCED  │ ████████████████████░░░░ ✓ │
-│ fr_FR.UTF-8     │ BASIC     │ ██████████░░░░░░░░░░░░░░ ✓ │
-└─────────────────┴───────────┴────────────────────────────┘
+🟢 GREEN HILL ZONE: ACTIVA
+📍 Bizkaia, Bilbao
+🗣️ 5 idiomas en modo pasivo
+☕ Café level: CRÍTICO
+💻 Modo: Mientras duermes, yo compilo
 ```
 
 ---
@@ -125,7 +100,7 @@ Mientras tú lees la documentación, yo ya estoy deployado y recogiendo anillos.
 
 <a href="tel:+34612545904"><img src="https://img.shields.io/badge/📱_PHONE-%2B34_612_54_59_04-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0000FF" /></a>
 
-<a href="https://maps.google.com/?q=Bilbao"><img src="https://img.shields.io/badge/📍_ZONE-Bizkaia/Bilbao-FF6600?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0000FF" /></a>
+<a href="https://websbizkaia.es"><img src="https://img.shields.io/badge/🌐_WEB-websbizkaia.es-FF6600?style=for-the-badge&labelColor=0000FF" /></a>
 
 </div>
 
