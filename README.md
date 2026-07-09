@@ -55,7 +55,7 @@
 
 Bizkaia, Spain 🇪🇸 | Trilingual | Full Stack Developer
 
-Tú todavía estás en el tutorial. Yo ya pasé Act 2.
+Zero rings. Full speed.
 
 ---
 
