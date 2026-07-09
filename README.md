@@ -1,84 +1,81 @@
-# CompetitionHumiliator
+# Youssef Oulmakhzoune Hemmid
 
-> **Quietly building systems that most people don't know exist.**
-
----
-
-## What I Actually Do
-
-I reverse-engineer platforms, automate workflows, and build things that rank. Most people consume the internet. I read its source code.
-
-**Current focus:** Mapping and understanding how local search actually works — from schema.org markup to municipality-level content architecture — while running experiments in automation, product intelligence, and security research on the side.
+> **Profesional orientado a resultados.** Trilingual. Based in Bizkaia, Spain.
 
 ---
 
-## 🧠 Research & Methods
+## About
 
-**Platform Intelligence**
-- Product discovery through non-obvious channels: patent filings, crowdfunding validation, factory-direct platforms, scrollable video ecosystems across China, India, SEA, LATAM, MENA
-- Ad Library reverse-engineering: health/broad template classification, emotion/urgency pattern matching, green/red flag interpretation
-- Cross-platform signal triangulation: what trends on Douyin/Pinduoduo before it hits Western feeds
+Full stack developer with hands-on experience in **Shopify, SEO/SEM, Meta Ads campaigns, and UX/UI design**. I build websites that convert, automate workflows that save time, and optimize the full funnel from first click to sale.
 
-**Search & Content Architecture**
-- Local SEO at municipality scale: verified facts per town, unique content angles, doorway-page avoidance
-- Schema.org implementation: LocalBusiness, TravelAgency, Product, Service — with geo-targeted `areaServed`
-- Programmatic content systems: hub-and-spoke models, sitemap automation, internal linking architecture
-- GBP strategy and citation ecosystems
-
-**Automation & Tooling**
-- Micro-service scaffolding with shared auth layers (Supabase), edge functions, and webhook handlers
-- Python pipelines for outreach, scraping, sitemap generation, and page templating
-- MCP research stacks: Brave Search, Reddit, CommaFeed — wired into custom query pipelines
-
-**Security**
-- Web application testing: CORS, auth bypass, business logic flaws, client-side JS deep analysis
-- Mobile: APK static analysis, endpoint extraction
-- OSINT and reconnaissance workflows
-- Pre-submission duplicate research (Hacktivity, Twitter disclosed reports)
+**Current focus:** Web development + digital marketing for local businesses in Bizkaia — combining technical execution with traffic strategy.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
+
+| Category | Tools & Platforms |
+|----------|-------------------|
+| **E-commerce** | Shopify (themes, apps, checkout optimization), PageFly |
+| **SEO & SEM** | On-page SEO, technical SEO, local SEO, Google Ads basics |
+| **Paid Social** | Meta Ads (Facebook & Instagram campaigns), audience targeting |
+| **UX / UI** | Responsive design, mobile-first, conversion-focused layouts |
+| **Content** | Canva, CapCut — creatives and video editing for social & ads |
+| **Automation** | n8n workflows, Python scripts for scraping & data processing |
+| **AI Tools** | LLM prompting for content, research, and process automation |
+| **Security** | Basic ethical hacking & penetration testing (OWASP fundamentals) |
+| **Servers** | Windows Server, Ubuntu Server |
+
+---
+
+## 💻 Tech Stack
 
 ```
-Frontend     →  Vanilla HTML / CSS / JS (mobile-first, custom properties, no bloat)
-Frameworks   →  Next.js (when needed), Vue (legacy)
-Backend      →  Supabase (Auth + PostgreSQL), Netlify Functions
-Payments     →  Stripe (webhook handlers, checkout flows)
-Hosting      →  Netlify (immutable cache, branch previews)
-Automation   →  Python (scrapers, generators, sitemaps, outreach)
-Research     →  Brave MCP, Reddit MCP, CommaFeed MCP, custom pipelines
-OS           →  Kali Linux (daily driver), Waydroid / Redroid (Android research)
+Frontend     →  HTML5, CSS3, JavaScript (vanilla + modern frameworks)
+Frameworks   →  Next.js, Vue.js
+Backend      →  Python, Supabase (Auth + PostgreSQL)
+E-commerce   →  Shopify, PageFly, Stripe
+Automation   →  n8n, Python (scrapers, generators, sitemaps)
+DevOps       →  Git, GitHub, Netlify, Ubuntu Server
+Project      →  Scrum, Product Owner basics
 ```
 
 ---
 
-## 📚 Documented Systems
+## 🎓 Formación
 
-Everything is backed by written playbooks:
-- **SEO Autoblogger Bible** — 30-step programmatic content engine
-- **Rank & Rent Guide** — niche selection, keyword research, GBP setup, pricing models
-- **Build-RankRent-Site Prompt** — full scaffold: schema, lead capture, citations, outreach templates
-- **SaaS Security Checklist** — auth layers, frontend rules, cron job gotchas, copy-paste templates
-- **29 Ecom Discovery Methods** — from Kickstarter validation to USPTO patent mining to 1688 image search
-- **Cold Outreach Rules** — WhatsApp-only CTA, never mention prices, always include Drive proof + LinkedIn
+- **Bootcamp Full Stack Developer** — Grupo Peñascal F5 (2024–2025, 1000h)
+- **FP Grado Medio — Sistemas Microinformáticos y Redes** — CIFP Elorrieta Erreka Mari LHII (2021–2023)
+- **Operaciones Auxiliares de Montaje y Mantenimiento** — Ipartek Servicios Informáticos (2024, 290h)
 
 ---
 
-## 🎯 Current Experiments
+## 💼 Experiencia
 
-- [ ] **100-site local SEO wave** across Bizkaia — municipality pages per niche, verified facts only
-- [ ] **AlertaAutónomo** — deadline reminder tool for Spanish freelancers (Hacienda + Seguridad Social via WhatsApp)
-- [ ] **AEPD scanner** — Spanish data protection compliance automation
-- [ ] **First valid bug bounty report** — HackerOne / Intigriti
+- **Prácticas como Técnico Informático** — Instalan Colaboraciones Informáticas (2024, 80h)
+- **Prácticas como Técnico Informático** — Serinfor Bilbao (2023, 420h)
 
 ---
 
-## 📡 Contact
+## 🌐 Idiomas
 
-- **Location:** Bizkaia, Basque Country, Spain
+| Idioma | Nivel |
+|--------|-------|
+| **Árabe** | Nativo |
+| **Bereber (Tamazight)** | Nativo |
+| **Inglés** | Avanzado |
+| **Castellano** | Avanzado |
+| **Francés** | Básico |
+
+---
+
+## 📡 Contacto
+
 - **Email:** sidewalking29@gmail.com
+- **LinkedIn:** [linkedin.com/in/youssef-oulmakhzoune01](https://linkedin.com/in/youssef-oulmakhzoune01)
+- **Teléfono:** +34 612 54 59 04
+- **Ubicación:** Bizkaia, Bilbao
 
 ---
 
-> *"Most people wait for trends. I read the patents."*
+> *"Incremento tasas de conversión y mejoro la satisfacción del cliente con soluciones efectivas."*
