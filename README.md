@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=800&color=0066FF&center=true&vCenter=true&width=600&lines=YOUSEF+OULMAKHZOUNE;FULL+STACK+DEV;BIZKAIA%2C+SPAIN;TRILINGUAL;GOTTA+GO+FAAAAAST" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2500&pause=600&color=0066FF&center=true&vCenter=true&width=600&lines=YOUSEF+OULMAKHZOUNE;FULL+STACK+DEV;BIZKAIA%2C+SPAIN;TRILINGUAL;GOTTA+GO+FAAAAAST" alt="Typing SVG" />
 
 <br>
 
-[![Rings](https://img.shields.io/badge/🪙_RINGS-∞-gold?style=for-the-badge&labelColor=0000FF&color=FFD700)](mailto:sidewalking29@gmail.com)
-[![Speed](https://img.shields.io/badge/⚡_SPEED-MACH_1-blue?style=for-the-badge&labelColor=0000FF&color=00CCFF)](https://linkedin.com/in/youssef-oulmakhzoune01)
-[![Status](https://img.shields.io/badge/🔵_STATUS-ONLINE-brightgreen?style=for-the-badge&labelColor=0000FF&color=00FF00)](https://github.com/CompetitionHumiliator)
+<img src="https://img.shields.io/badge/🪙_RINGS-∞-gold?style=for-the-badge&labelColor=0000FF&color=FFD700" />
+<img src="https://img.shields.io/badge/⚡_SPEED-MACH_1-blue?style=for-the-badge&labelColor=0000FF&color=00CCFF" />
+<img src="https://img.shields.io/badge/🔵_STATUS-ONLINE-brightgreen?style=for-the-badge&labelColor=0000FF&color=00FF00" />
 
 </div>
 
@@ -26,35 +26,41 @@
 
 ---
 
-## 🔵 `> whoami`
+## `> whoami`
 
-```diff
-+ Youssef Oulmakhzoune Hemmid
-+ Full Stack Developer
-+ Bizkaia, Spain 🇪🇸
-+ Trilingual Operator
+**Youssef Oulmakhzoune Hemmid**
+
+Bizkaia, Spain 🇪🇸 | Trilingual | Full Stack Developer
+
+I don't chase. I **build the zone, own the zone, then pick who enters.** Speed is my default mode. Most people are still reading the docs — I'm already deployed, ranked, and collecting rings.
+
+---
+
+## `> stats --maxed`
+
+```
+┌──────────────────────────────────────────────────────────┐
+│  💨 VELOCITY     ██████████████████████████████████████  │
+│  🎯 PRECISION    ████████████████████████████████████░░  │
+│  🛡️ DEFENSE      ██████████████████████████████████░░░░  │
+│  🔥 SWAGGER      ██████████████████████████████████████  │
+└──────────────────────────────────────────────────────────┘
 ```
 
-I don't wait for opportunities. I **build the pipeline, automate the workflow, and deploy before the competition boots their IDE.**
+| Arsenal | Power |
+|---------|------|
+| **E-commerce** | Shopify, PageFly, checkout optimization |
+| **SEO / SEM** | On-page, technical, local — rank or die |
+| **Paid Social** | Meta Ads, funnels that convert |
+| **UX / UI** | Mobile-first, conversion-focused, clean |
+| **Automation** | n8n, Python pipelines |
+| **AI** | LLM prompting for scale |
+| **Security** | Ethical hacking, OWASP, pen testing |
+| **Systems** | Windows Server, Ubuntu Server |
 
 ---
 
-## ⚡ `> stats --speed`
-
-<div align="center">
-
-| Stat | Value |
-|:--|--:|
-| **💨 Velocity** | `HTML · CSS · JS · Python · Next.js · Vue · Supabase · Shopify · Stripe` |
-| **🎯 Focus** | E-commerce · SEO · SEM · Meta Ads · UX/UI · Automation |
-| **🛡️ Defense** | Ethical Hacking · OWASP · Penetration Testing |
-| **⚙️ Systems** | Windows Server · Ubuntu Server · Netlify · n8n |
-
-</div>
-
----
-
-## 🪙 `> rings collected`
+## `> rings collected`
 
 <div align="center">
 
@@ -65,31 +71,35 @@ I don't wait for opportunities. I **build the pipeline, automate the workflow, a
 ║  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  ║
 ║  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  🟡  ║
 ╚═══════════════════════════════════════════════════════════════╝
-              ∞ RINGS — SKILLS MAXED OUT
+              ∞ RINGS — INVENTORY FULL
 ```
 
 </div>
 
 ---
 
-## 🏆 `> cat chaos_emeralds.txt`
+## `> cat chaos_emeralds.txt`
 
-```yaml
-🔵 AZUL    → Bootcamp Full Stack Developer
-             Grupo Peñascal F5 | 2024–2025 | 1000h
+```diff
++ 🔵 AZUL     → Bootcamp Full Stack Developer
+              Grupo Peñascal F5 | 2024–2025 | 1000h
+              DOMINATED
 
-🟢 VERDE   → FP Grado Medio — Sistemas Microinformáticos y Redes
-             CIFP Elorrieta Erreka Mari LHII | 2021–2023
++ 🟢 VERDE    → FP Grado Medio — Sistemas Microinformáticos y Redes
+              CIFP Elorrieta Erreka Mari LHII | 2021–2023
+              DOMINATED
 
-🟡 AMARILLO→ Operaciones Auxiliares de Montaje y Mantenimiento
-             Ipartek Servicios Informáticos | 2024 | 290h
++ 🟡 AMARILLO → Operaciones Auxiliares de Montaje y Mantenimiento
+              Ipartek Servicios Informáticos | 2024 | 290h
+              DOMINATED
 
-🔴 ROJO    → Trilingual Command Protocol Active
++ 🔴 ROJO     → Trilingual Protocol — AR · BER · EN · ES · FR
+              ALL ZONES CLEARED
 ```
 
 ---
 
-## 🌐 `> locale --list`
+## `> locale --active`
 
 ```
 ┌─────────────────┬───────────┬────────────────────────────┐
@@ -105,22 +115,23 @@ I don't wait for opportunities. I **build the pipeline, automate the workflow, a
 
 ---
 
-## 📡 `> contact --protocols`
+## `> contact --drop`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_EMAIL-sidewalking29@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0000FF)](mailto:sidewalking29@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🔗_LINKEDIN-Youssef_Oulmakhzoune-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0000FF)](https://linkedin.com/in/youssef-oulmakhzoune01)
-[![Phone](https://img.shields.io/badge/📱_PHONE-%2B34_612_54_59_04-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0000FF)](tel:+34612545904)
-[![Location](https://img.shields.io/badge/📍_BIZKAIA-Bilbao-FF6600?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0000FF)](https://maps.google.com/?q=Bilbao)
+<a href="mailto:sidewalking29@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-sidewalking29@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0000FF" /></a>
+
+<a href="https://linkedin.com/in/youssef-oulmakhzoune01"><img src="https://img.shields.io/badge/🔗_LINKEDIN-Youssef_Oulmakhzoune-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0000FF" /></a>
+
+<a href="tel:+34612545904"><img src="https://img.shields.io/badge/📱_PHONE-%2B34_612_54_59_04-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0000FF" /></a>
+
+<a href="https://maps.google.com/?q=Bilbao"><img src="https://img.shields.io/badge/📍_ZONE-Bizkaia/Bilbao-FF6600?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0000FF" /></a>
 
 </div>
 
 ---
 
 <div align="center">
-
-### 🌀 **ZONE: GREEN HILL — BIZKAIA EDITION** 🌀
 
 ```
         ██╗     ██╗██╗   ██╗██╗     ██╗      ██████╗██╗  ██╗
@@ -131,6 +142,6 @@ I don't wait for opportunities. I **build the pipeline, automate the workflow, a
         ╚══════╝╚═╝ ╚═════╝ ╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝
 ```
 
-**"No soy el tipo que espera. Soy el tipo que compila a velocidad sónica."**
+**"No espero la oportunidad. La construyo, la rankeo, y la cobro."**
 
 </div>
