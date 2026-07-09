@@ -12,18 +12,6 @@ I build **digital real estate** and **automated revenue systems** from scratch �
 
 ---
 
-## 🏗️ Live Builds
-
-| Project | What It Is | Stack |
-|---------|-----------|-------|
-| [**websbizkaia.es**](https://websbizkaia.es) | 325-post SEO factory. 349 pages. Hub-and-spoke content machine for web design + local service keywords. | Vanilla HTML/CSS/JS, Netlify, manual sitemap |
-| [**placassolaresbarakaldo.es**](https://placassolaresbarakaldo.es) | Rank & Rent site #1. Solar panels in Barakaldo. Built to capture `[service] + [town]` Map Pack + organic. | Static HTML, Schema.org, WhatsApp CTA |
-| [**alertaautonomo.netlify.app**](https://alertaautonomo.netlify.app) | Micro-SaaS for Spanish freelancers. Auto-alerts for Hacienda + Seguridad Social deadlines via WhatsApp. €5/mo. | Supabase Auth + DB, Stripe Payment Links, Netlify Functions |
-| [**tililatours.netlify.app**](https://tililatours.netlify.app) | Multi-page Morocco tour agency. 40+ SEO-optimized tour + excursion pages. Schema TravelAgency + Product. | Vanilla HTML/CSS/JS, Python generator, JSON-LD |
-| **6-site local portfolio** | [La Esquina de Baco](https://laesquinadebaco.netlify.app/), [BilbaoKebab](https://bilbaokebab.netlify.app/), [Estilo Peluquería](https://estilopeluqueria.netlify.app/), and others. Lighthouse 100. Unified typography + design system. | Vanilla HTML/CSS/JS, Netlify |
-
----
-
 ## 📊 Numbers That Matter
 
 | Metric | Value |
