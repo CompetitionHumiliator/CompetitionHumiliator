@@ -1,97 +1,84 @@
-# `CompetitionHumiliator`
+# CompetitionHumiliator
 
-> **I don't compete. I build the arena, then charge everyone else admission.**
+> **Quietly building systems that most people don't know exist.**
 
 ---
 
 ## What I Actually Do
 
-I build **digital real estate** and **automated revenue systems** from scratch — then I rank them, rent them, or run them. Most people scroll TikTok. I reverse-engineer the supply chains behind the products on TikTok before they hit Western ads.
+I reverse-engineer platforms, automate workflows, and build things that rank. Most people consume the internet. I read its source code.
 
-**Current focus:** Dominate local service SEO in Bizkaia (Spain) while running micro-SaaS and ecom intelligence ops on the side.
-
----
-
-## 📊 Numbers That Matter
-
-| Metric | Value |
-|--------|-------|
-| **SEO arbitrage revenue** | $20,000+ (1-product store model, organic traffic only) |
-| **Cold outreach sent** | 155+ Bilbao businesses, WhatsApp-only CTA, no prices in copy |
-| **Local prospects mapped** | 800+ businesses across 12 niches in Bizkaia |
-| **Posts in SEO factory** | 325+ programmatic posts across 349 pages |
-| **Sites deployed** | 25+ on Netlify, all hand-built, all indexed |
-| **Research methods documented** | 29 ecom shark discovery methods + USPTO patent mining pipeline + Chinese platform intelligence |
+**Current focus:** Mapping and understanding how local search actually works — from schema.org markup to municipality-level content architecture — while running experiments in automation, product intelligence, and security research on the side.
 
 ---
 
-## 🧠 Intelligence Arsenal
+## 🧠 Research & Methods
 
-**Ecom & Product Discovery**
-- 29 insider product discovery methods (Kickstarter arbitrage, USPTO patent mining, Douyin/Pinduoduo/1688 deep research)
-- Trend SEO arbitrage: build 1-product stores BEFORE products hit Facebook ads, capture organic demand for free
-- Ad Library CSV architecture with health/broad templates, emotion/urgency combos, green/red flag interpretation
+**Platform Intelligence**
+- Product discovery through non-obvious channels: patent filings, crowdfunding validation, factory-direct platforms, scrollable video ecosystems across China, India, SEA, LATAM, MENA
+- Ad Library reverse-engineering: health/broad template classification, emotion/urgency pattern matching, green/red flag interpretation
+- Cross-platform signal triangulation: what trends on Douyin/Pinduoduo before it hits Western feeds
 
-**Local SEO & Rank & Rent**
-- Hub-per-niche architecture: one domain per service (`[service]+bilbao.es`)
-- Municipality-level content with verified facts (Brave MCP research, no doorway-page penalties)
-- GBP strategy, citation building, internal linking, schema.org LocalBusiness
-- 100-site wave rollout planned for Tier S niches (solar, humedades, etc.)
+**Search & Content Architecture**
+- Local SEO at municipality scale: verified facts per town, unique content angles, doorway-page avoidance
+- Schema.org implementation: LocalBusiness, TravelAgency, Product, Service — with geo-targeted `areaServed`
+- Programmatic content systems: hub-and-spoke models, sitemap automation, internal linking architecture
+- GBP strategy and citation ecosystems
 
-**SaaS & Automation**
-- Marc Lou-style micro-SaaS build pipeline: find demand → scaffold → ship → iterate
-- 6 SaaS shared auth layer (Supabase), Stripe webhooks, Netlify edge functions
-- Python outreach bots, sitemap generators, programmatic page builders
+**Automation & Tooling**
+- Micro-service scaffolding with shared auth layers (Supabase), edge functions, and webhook handlers
+- Python pipelines for outreach, scraping, sitemap generation, and page templating
+- MCP research stacks: Brave Search, Reddit, CommaFeed — wired into custom query pipelines
 
 **Security**
-- Bug bounty hunting: CORS misconfigs, APK analysis, JS deep analysis, business logic bypasses
-- Pentest toolkit (terminal-only recon, injection, static analysis, OSINT)
-- Rule: search Hacktivity + Twitter for disclosed reports before submitting. Duplicates = $0.
+- Web application testing: CORS, auth bypass, business logic flaws, client-side JS deep analysis
+- Mobile: APK static analysis, endpoint extraction
+- OSINT and reconnaissance workflows
+- Pre-submission duplicate research (Hacktivity, Twitter disclosed reports)
 
 ---
 
-## 🛠️ Tech I Actually Use
+## 🛠️ Tech Stack
 
 ```
 Frontend     →  Vanilla HTML / CSS / JS (mobile-first, custom properties, no bloat)
 Frameworks   →  Next.js (when needed), Vue (legacy)
 Backend      →  Supabase (Auth + PostgreSQL), Netlify Functions
-Payments     →  Stripe (Payment Links + Checkout + Webhooks)
+Payments     →  Stripe (webhook handlers, checkout flows)
 Hosting      →  Netlify (immutable cache, branch previews)
-Automation   →  Python (outreach, scrapers, generators, sitemaps)
+Automation   →  Python (scrapers, generators, sitemaps, outreach)
 Research     →  Brave MCP, Reddit MCP, CommaFeed MCP, custom pipelines
 OS           →  Kali Linux (daily driver), Waydroid / Redroid (Android research)
 ```
 
 ---
 
-## 📚 Knowledge Systems
+## 📚 Documented Systems
 
-Everything I build is backed by documented playbooks:
-- **SEO Autoblogger Bible** — 30-step programmatic SEO engine
-- **Rank & Rent Complete Guide** — niche selection → keyword research → GBP → pricing models
-- **Build-RankRent-Site Prompt** — AI prompt that builds lead-gen sites with schema, lead capture, citations
-- **SaaS Security Checklist** — mandatory auth, frontend rules, cron job gotchas
-- **Cold Email Rules** — WhatsApp-only CTA, never mention prices, always include Drive proof + LinkedIn
+Everything is backed by written playbooks:
+- **SEO Autoblogger Bible** — 30-step programmatic content engine
+- **Rank & Rent Guide** — niche selection, keyword research, GBP setup, pricing models
+- **Build-RankRent-Site Prompt** — full scaffold: schema, lead capture, citations, outreach templates
+- **SaaS Security Checklist** — auth layers, frontend rules, cron job gotchas, copy-paste templates
+- **29 Ecom Discovery Methods** — from Kickstarter validation to USPTO patent mining to 1688 image search
+- **Cold Outreach Rules** — WhatsApp-only CTA, never mention prices, always include Drive proof + LinkedIn
 
 ---
 
-## 🎯 Current Targets
+## 🎯 Current Experiments
 
-- [ ] **100-site Rank & Rent wave** across Bizkaia (Tier S niches: solar, humedades, fontanería)
-- [ ] **AlertaAutónomo public launch** — Stripe live keys, domain, GDPR, GA4
-- [ ] **AEPD scanner SaaS** — automate Spanish data protection compliance checks
-- [ ] **Bug bounty: first valid report** on HackerOne / Intigriti
+- [ ] **100-site local SEO wave** across Bizkaia — municipality pages per niche, verified facts only
+- [ ] **AlertaAutónomo** — deadline reminder tool for Spanish freelancers (Hacienda + Seguridad Social via WhatsApp)
+- [ ] **AEPD scanner** — Spanish data protection compliance automation
+- [ ] **First valid bug bounty report** — HackerOne / Intigriti
 
 ---
 
 ## 📡 Contact
 
 - **Location:** Bizkaia, Basque Country, Spain
-- **Business:** [websbizkaia.es](https://websbizkaia.es)
 - **Email:** sidewalking29@gmail.com
-- **WhatsApp:** +34 612 54 59 04 (business only)
 
 ---
 
-> *"Most people wait for trends. I build the landing pages while the product is still in a Chinese factory."*
+> *"Most people wait for trends. I read the patents."*
