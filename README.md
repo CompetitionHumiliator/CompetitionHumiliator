@@ -55,7 +55,7 @@
 
 Bizkaia, Spain 🇪🇸 | Trilingual | Full Stack Developer
 
-Mientras tú lees la documentación, yo ya estoy deployado y recogiendo anillos.
+Tú todavía estás en el tutorial. Yo ya pasé Act 2.
 
 ---
 
