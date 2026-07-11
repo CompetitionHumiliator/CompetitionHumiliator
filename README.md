@@ -100,7 +100,7 @@ Zero rings. Full speed.
 📍 Bizkaia, Bilbao
 🗣️ 5 idiomas en modo pasivo
 ☕ Café level: CRÍTICO
-💻 Modo: Mientras duermes, yo compilo
+💻 Modo: Ninja
 ```
 
 ---
