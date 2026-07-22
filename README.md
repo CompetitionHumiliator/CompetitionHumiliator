@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2500&pause=600&color=0066FF&center=true&vCenter=true&width=600&lines=YOUSEF+OULMAKHZOUNE+HEMMID;FULL+STACK+DEV;BIZKAIA%2C+SPAIN;TRILINGUAL;GOTTA+GO+FAAAAAST" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2500&pause=600&color=0066FF&center=true&vCenter=true&width=600&lines=YOUSEF+OULMAKHZOUNE+HEMMID;FULL+STACK+DEV;BIZKAIA%2C+SPAIN;GOTTA+GO+FAAAAAST" alt="Typing SVG" />
 
 <br>
 
@@ -45,7 +45,7 @@
 
 **Youssef Oulmakhzoune Hemmid**
 
-Bizkaia, Spain 🇪🇸 | Trilingual | Full Stack Developer
+Bizkaia, Spain 🇪🇸 | Full Stack Developer
 
 Zero rings. Full speed.
 
